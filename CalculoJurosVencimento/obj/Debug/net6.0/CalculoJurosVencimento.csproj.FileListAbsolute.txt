@@ -1,0 +1,15 @@
+C:\Users\graeb\source\repos\CalculoJurosVencimento\CalculoJurosVencimento\bin\Debug\net6.0\CalculoJurosVencimento.exe
+C:\Users\graeb\source\repos\CalculoJurosVencimento\CalculoJurosVencimento\bin\Debug\net6.0\CalculoJurosVencimento.deps.json
+C:\Users\graeb\source\repos\CalculoJurosVencimento\CalculoJurosVencimento\bin\Debug\net6.0\CalculoJurosVencimento.runtimeconfig.json
+C:\Users\graeb\source\repos\CalculoJurosVencimento\CalculoJurosVencimento\bin\Debug\net6.0\CalculoJurosVencimento.dll
+C:\Users\graeb\source\repos\CalculoJurosVencimento\CalculoJurosVencimento\bin\Debug\net6.0\CalculoJurosVencimento.pdb
+C:\Users\graeb\source\repos\CalculoJurosVencimento\CalculoJurosVencimento\obj\Debug\net6.0\CalculoJurosVencimento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\graeb\source\repos\CalculoJurosVencimento\CalculoJurosVencimento\obj\Debug\net6.0\CalculoJurosVencimento.AssemblyInfoInputs.cache
+C:\Users\graeb\source\repos\CalculoJurosVencimento\CalculoJurosVencimento\obj\Debug\net6.0\CalculoJurosVencimento.AssemblyInfo.cs
+C:\Users\graeb\source\repos\CalculoJurosVencimento\CalculoJurosVencimento\obj\Debug\net6.0\CalculoJurosVencimento.csproj.CoreCompileInputs.cache
+C:\Users\graeb\source\repos\CalculoJurosVencimento\CalculoJurosVencimento\obj\Debug\net6.0\CalculoJurosVencimento.sourcelink.json
+C:\Users\graeb\source\repos\CalculoJurosVencimento\CalculoJurosVencimento\obj\Debug\net6.0\CalculoJurosVencimento.dll
+C:\Users\graeb\source\repos\CalculoJurosVencimento\CalculoJurosVencimento\obj\Debug\net6.0\refint\CalculoJurosVencimento.dll
+C:\Users\graeb\source\repos\CalculoJurosVencimento\CalculoJurosVencimento\obj\Debug\net6.0\CalculoJurosVencimento.pdb
+C:\Users\graeb\source\repos\CalculoJurosVencimento\CalculoJurosVencimento\obj\Debug\net6.0\CalculoJurosVencimento.genruntimeconfig.cache
+C:\Users\graeb\source\repos\CalculoJurosVencimento\CalculoJurosVencimento\obj\Debug\net6.0\ref\CalculoJurosVencimento.dll
